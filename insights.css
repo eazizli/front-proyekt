@@ -1,0 +1,60 @@
+.ins{
+    text-align: center;
+}
+.sekil{
+   display: flex;
+   justify-content: space-around;
+}
+.clm{
+    display: flex;
+    justify-content: space-around;
+}
+.orl{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.url{
+    display: flex;
+    justify-content: space-around;
+}
+.son{
+    width: auto;
+    height: 300px;
+    background-color: black;
+    border: 2px solid;
+    display: flex;
+    justify-content: space-around;
+}
+.son h1{
+    color: white;
+    text-align: start;
+ }   
+ .son p{
+    color: white;
+    text-align: start;
+ }
+ .son div{
+    color: white;
+ }
+ li a:hover{
+    text-decoration: underline !important;
+    text-underline-offset: 6px;
+  
+ }
+ .container{
+    justify-content: flex-end !important;
+ }
+ .ttyy{
+    display: flex;
+ }
+ .ttyy i{
+    font-size: 20px;
+    cursor: pointer;
+ }
+ .son a{
+    color: white;
+    text-align: left;
+ }
+ 
+

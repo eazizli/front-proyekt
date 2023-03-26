@@ -1,0 +1,101 @@
+.gemi{
+   
+}
+
+
+
+.team{
+    
+    
+    margin-left: 50px;
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/tixlyvnpr7/nynne-schroder-unsplash-A0xnbgZ4WxTJlN3R.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.btn{
+    margin-bottom: 200px; 
+    width: 150px;
+    background-color: black;
+    color: white;
+    }
+.test{
+    text-align: center;
+
+    }
+.img{
+    justify-content: space-around;
+   
+        display: flex;
+    }
+.custom{
+    justify-content: space-around;
+    display: flex;
+    
+    
+
+}
+.custom button{
+    background-color: black;
+    color: white;
+}
+.story{
+  display: flex;
+    text-align: start;
+    justify-content: space-around;
+}
+.cstm{
+    justify-content: space-around;
+}
+.butn button{
+    background-color: black;
+    color: white;
+}
+.son{
+    width: auto;
+    height: 300px;
+    background-color: black;
+    border: 2px solid;
+    display: flex;
+    justify-content: space-around;
+    
+}
+ .son h1{
+    color: white;
+    text-align: start;
+ }   
+ .son p{
+    color: white;
+    text-align: start;
+ }
+ .son div{
+    color: white;
+ }
+ .inf{
+    display: flex;
+ }
+ .son a{
+    color: white;
+    text-align: left;
+ }
+ li a:hover{
+    text-decoration: underline !important;
+    text-underline-offset: 6px;
+  
+ }
+ .container{
+    justify-content: flex-end !important;
+ }
+ .ttyy{
+    display: flex;
+ }
+ .ttyy i{
+    font-size: 20px;
+    cursor: pointer;
+ }
+ 
+    
+ 
+ 
+
+ 
+
